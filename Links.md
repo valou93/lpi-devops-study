@@ -25,24 +25,24 @@
 
 ##  1. <a name='GettingStarted'></a>Getting Started 
 
-- [x]  [LPI Blog - DevOps Tools Introduction \#01: Getting 'Getting Started'
+- [ ]  [LPI Blog - DevOps Tools Introduction \#01: Getting 'Getting Started'
 Started \| Linux Professional
 Institute](https://www.lpi.org/blog/2018/01/09/devops-tools-introduction-01-getting-getting-started-started)
 
-- [x] [DevOps Tools Engineer Objectives V1 - LPI
+- [ ] [DevOps Tools Engineer Objectives V1 - LPI
 Wiki](https://wiki.lpi.org/wiki/DevOps_Tools_Engineer_Objectives_V1)
 
 ##  2. <a name='ModernSoftwareDevelopment'></a>Modern Software Development
 
-- [x]  [LPI Blog - DevOps Tools Introduction \#Modern Software Development
+- [ ]  [LPI Blog - DevOps Tools Introduction \#Modern Software Development
 \| Linux Professional
 Institute](https://www.lpi.org/blog/2018/01/16/devops-tools-introduction-02-modern-software-development)
 
-- [x]  [The Twelve-Factor App](https://12factor.net/) [![alt handout-link](img/handout-20.png)](handouts/TwelveFactorApp.md)
+- [ ]  [The Twelve-Factor App](https://12factor.net/) [![alt handout-link](img/handout-20.png)](handouts/TwelveFactorApp.md)
 
-- [x]  [Martin Fowler](https://martinfowler.com/)
+- [ ]  [Martin Fowler](https://martinfowler.com/)
 
-- [x]  [EnterpriseApplication](https://martinfowler.com/bliki/EnterpriseApplication.html) [![alt handout-link](img/handout-20.png)](handouts/EnterpriseApplication.md)
+- [ ]  [EnterpriseApplication](https://martinfowler.com/bliki/EnterpriseApplication.html) [![alt handout-link](img/handout-20.png)](handouts/EnterpriseApplication.md)
 
 - [ ]  [Microservices](https://martinfowler.com/articles/microservices.html)
 
